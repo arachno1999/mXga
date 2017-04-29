@@ -13,3 +13,5 @@ Bisher sind das die folgenden Verbesserungen:
  - Entferne das nervige PopUp, das ausschließlich Werbeinhalte von Xing enthält, direkt nach dem Login erscheint und einfach von dem abhält, weshalb man sich gerade eingelogged hat.
 
  - Zeige auf der Profilseite einen zusätzlichen Button, der Infos aus den Kontaktdaten so anzeigt, dass man diese direkt anklicken an ("M" für mobile Telefonnummer, "T" für Telefonnummer und "E" für E-Mail, jeweils in Form eines Links - soweit technisch möglich, kann man so mit einem Klick anrufen und mailen)
+
+Ich freue mich über jede Erweiterung oder einfach Ideen und Vorschläge. Jede Verbesserung von Xing ist willkommen (es mangelt ja nicht an ungeliebten Änderungen seitens Xing :-) )
