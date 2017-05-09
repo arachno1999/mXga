@@ -67,6 +67,7 @@ window.addEventListener('load', function () {
     du = 'false';
     anchor.setAttribute('class', 'profile-action-list-link profile-action-list-link-message foundation-icon foundation-icon-core-link');
     anchor.setAttribute('href', 'http://arachno.de');
+    anchor.setAttribute('target', '_blank');
     anchor.innerHTML = '<span class="profile-action-list-link-underline">PDF-Link senden</span>';
     anchor.onclick = function () {
       tags = document.getElementsByClassName('tag-anchor');
